@@ -291,6 +291,14 @@ main{
 #ourMentors{
     padding: 3% 0;
 
+    & h2{
+        font-size: 32px;
+        font-weight: 700;
+        color: #FFFFFF;
+        text-align: center;
+        padding-bottom: 3%;
+    }
+
     & .mentors-container{
 
         & .card{
