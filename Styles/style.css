@@ -191,6 +191,7 @@ main{
                 background: linear-gradient(90deg, #00C3FF 0%, #00FF94 100%);
                 color: #051238;
                 scale: 1.05;
+                cursor: pointer;
             }
 
             & a:active{
@@ -374,6 +375,10 @@ main{
             font-size: 15px;
         }
     }
+}
+
+#registerForm{
+    padding-bottom: 3%;
 }
 
 /* FOOTER */
